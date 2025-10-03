@@ -1,0 +1,21 @@
+name: Metrics
+on:
+  # Schedule updates (once a day)
+  schedule: [{cron: "0 0 * * *"}]
+
+jobs:
+  github-metrics:
+    runs-on: ubuntu-latest
+    permissions:
+      contents: write
+    steps:
+      - uses: lowlighter/metrics@latest
+        with:
+          filename: metrics.plugin.pagespeed.svg
+          token: ${{ secrets.METRICS_TOKEN }}
+          base: ""
+          plugin_pagespeed: yes
+          plugin_pagespeed_token: ${{ secrets.PAGESPEED_TOKEN }}
+          plugin_pagespeed_url: https://behradfarahani.com
+          plugin_pagespeed_detailed: yes
+          plugin_pagespeed_screenshot: yes
