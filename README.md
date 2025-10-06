@@ -17,40 +17,7 @@
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@darhebfk">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/youtube.svg">
-      <img width="32px" alt="YouTube" title="YouTube" src="assets/icons/dark/youtube.svg"/>
-    </picture>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/darhebfk/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/instagram.svg">
-      <img width="32px" alt="Instagram" title="Instagram" src="assets/icons/dark/instagram.svg"/>
-    </picture>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/behradfarahani/">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/linkedin.svg">
-      <img width="32px" alt="LinkedIn" title="LinkedIn" src="assets/icons/dark/linkedin.svg"/>
-    </picture>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/UFfeTQQN2">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/discord.svg">
-      <img width="32px" alt="Discord" title="Discord" src="assets/icons/dark/discord.svg"/>
-    </picture>
-  </a>
-  &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://huggingface.co/behradlabs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/huggingface.svg">
-      <img width="32px" alt="Hugging Face" title="Hugging Face" src="assets/icons/dark/huggingface.svg"/>
-    </picture>
-  </a>
+  <a href="https://www.youtube.com/@darhebfk"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/youtube.svg"><img width="32px" alt="YouTube" title="YouTube" src="assets/icons/dark/youtube.svg"/></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://www.instagram.com/darhebfk/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/instagram.svg"><img width="32px" alt="Instagram" title="Instagram" src="assets/icons/dark/instagram.svg"/></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://www.linkedin.com/in/behradfarahani/"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/linkedin.svg"><img width="32px" alt="LinkedIn" title="LinkedIn" src="assets/icons/dark/linkedin.svg"/></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://discord.gg/UFfeTQQN2"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/discord.svg"><img width="32px" alt="Discord" title="Discord" src="assets/icons/dark/discord.svg"/></picture></a>&#8287;&#8287;&#8287;&#8287;&#8287;<a href="https://huggingface.co/behradlabs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/huggingface.svg"><img width="32px" alt="Hugging Face" title="Hugging Face" src="assets/icons/dark/huggingface.svg"/></picture></a>
 </p>
 
 <p align="center">
@@ -77,19 +44,7 @@ website: Check out my website 🌐 behradfarahani.com (click my name)
 <!--![PageSpeed](metrics.plugin.pagespeed.svg)-->
 
 <p align="center">
-  <a href="https://github.com/codenecting">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/images/light/cta_codenecting.svg">
-      <img alt="Check out Codenecting" src="assets/images/dark/cta_codenecting.svg">
-    </picture>
-  </a>
-  &nbsp;&nbsp;
-  <a href="https://github.com/behradlabs">
-    <picture>
-      <source media="(prefers-color-scheme: dark)" srcset="assets/images/dark/cta_behradlabs.svg">
-      <img alt="Check out Behrad Labs" src="assets/images/light/cta_behradlabs.svg">
-    </picture>
-  </a>
+  <a href="https://github.com/codenecting"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/images/light/cta_codenecting.svg"><img alt="Check out Codenecting" src="assets/images/dark/cta_codenecting.svg"></picture></a>&nbsp;&nbsp;<a href="https://github.com/behradlabs"><picture><source media="(prefers-color-scheme: dark)" srcset="assets/images/dark/cta_behradlabs.svg"><img alt="Check out Behrad Labs" src="assets/images/light/cta_behradlabs.svg"></picture></a>
 </p>
 
 <!-- https://github.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis -->
@@ -133,12 +88,12 @@ link: T.B.A.
 
 <!-- https://github.com/anuraghazra/github-readme-stats -->
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=achmedius&theme=dark&hide_border=true">
-  <img src="https://github-readme-stats.vercel.app/api?username=achmedius&theme=default&hide_border=true" alt="GitHub Stats">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=achmedius&hide_border=true&show_icons=true&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9&icon_color=FFFFFF">
+  <img src="https://github-readme-stats.vercel.app/api?username=achmedius&theme=swift&hide_border=true&show_icons=true" alt="GitHub Stats">
 </picture>
 <picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=achmedius&layout=compact&theme=dark&hide_border=true&langs_count=8">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmedius&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages">
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=achmedius&layout=compact&hide_border=true&langs_count=8&bg_color=00000000&title_color=FFFFFF&text_color=C9D1D9">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmedius&layout=compact&theme=swift&hide_border=true&langs_count=8" alt="Top Languages">
 </picture>
 
 <br>
