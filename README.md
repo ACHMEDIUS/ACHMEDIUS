@@ -1,23 +1,56 @@
-<p align="center" style="margin-bottom: 0;">
-  <span style="font-family: 'Fira Code', monospace; font-size: 30px; color: #FFFFFF; font-weight: bold;">Behrad Farahani</span>
-</p>
-
 <p align="center">
-  <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Local+AI+Pioneer;Orange+Cat+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22" alt="Typing SVG">
+  <a href="https://behradfarahani.com">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/images/light/hero_title.svg">
+      <img alt="Behrad Farahani" src="assets/images/dark/hero_title.svg">
+    </picture>
   </a>
 </p>
 
 <p align="center">
-  <a href="https://www.youtube.com/@darhebfk"><img width="32px" alt="YouTube" title="YouTube" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/youtube.svg" style="filter: invert(1);"/></a>
+  <a href="https://github.com/DenverCoder1/readme-typing-svg">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Local+AI+Pioneer;Orange+Cat+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=FFFFFF&vCenter=true&pause=1000&size=22">
+      <img src="https://readme-typing-svg.demolab.com/?lines=Software+Engineer;Local+AI+Pioneer;Orange+Cat+Enthusiast&font=Fira%20Code&center=true&width=440&height=45&color=000000&vCenter=true&pause=1000&size=22" alt="Typing SVG">
+    </picture>
+  </a>
+</p>
+
+<p align="center">
+  <a href="https://www.youtube.com/@darhebfk">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/youtube.svg">
+      <img width="32px" alt="YouTube" title="YouTube" src="assets/icons/dark/youtube.svg"/>
+    </picture>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.instagram.com/darhebfk/"><img width="32px" alt="Instagram" title="Instagram" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/instagram.svg" style="filter: invert(1);"/></a>
+  <a href="https://www.instagram.com/darhebfk/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/instagram.svg">
+      <img width="32px" alt="Instagram" title="Instagram" src="assets/icons/dark/instagram.svg"/>
+    </picture>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://www.linkedin.com/in/behradfarahani/"><img width="32px" alt="LinkedIn" title="LinkedIn" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/linkedin.svg" style="filter: invert(1);"/></a>
+  <a href="https://www.linkedin.com/in/behradfarahani/">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/linkedin.svg">
+      <img width="32px" alt="LinkedIn" title="LinkedIn" src="assets/icons/dark/linkedin.svg"/>
+    </picture>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://discord.gg/UFfeTQQN2"><img width="32px" alt="Discord" title="Discord" src="https://cdn.jsdelivr.net/npm/simple-icons@v11/icons/discord.svg" style="filter: invert(1);"/></a>
+  <a href="https://discord.gg/UFfeTQQN2">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/discord.svg">
+      <img width="32px" alt="Discord" title="Discord" src="assets/icons/dark/discord.svg"/>
+    </picture>
+  </a>
   &#8287;&#8287;&#8287;&#8287;&#8287;
-  <a href="https://huggingface.co/behradlabs"><img width="32px" alt="Hugging Face" title="Hugging Face" src="https://registry.npmmirror.com/@lobehub/icons-static-svg/latest/files/icons/huggingface.svg" style="filter: invert(1);"/></a>
+  <a href="https://huggingface.co/behradlabs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/huggingface.svg">
+      <img width="32px" alt="Hugging Face" title="Hugging Face" src="assets/icons/dark/huggingface.svg"/>
+    </picture>
+  </a>
 </p>
 
 <p align="center">
@@ -27,8 +60,15 @@
   <img src="https://img.shields.io/badge/Years_on_GitHub-5-lightgrey?style=plastic&logo=github" alt="Years on GitHub" title="Last updated: October 3rd, 2025"/>
 </p>
 
+<p align="center">
+  <picture>
+    <source media="(prefers-color-scheme: dark)" srcset="https://streak-stats.demolab.com?user=ACHMEDIUS&theme=dark&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D">
+    <img src="https://streak-stats.demolab.com?user=ACHMEDIUS&background=00000000&hide_border=true&date_format=j%20M%5B%20Y%5D" alt="GitHub Streak">
+  </picture>
+</p>
+
 <details open>
-<summary style="font-size: 1.2em;">About</summary>
+<summary style="font-size: 1.2em;">About Me</summary>
 
 <br>
 
@@ -37,20 +77,24 @@ description: Software Engineer with 10+ years of experience, pivoting to Local A
 interests: [Web Development, Local AI, Machine Learning, Agentic Systems]
 currently_exploring: Second Brain architectures and LLM identity simulation
 codenecting: Founding a new startup focused on AI-powered development tools
-website: Check out my website 🌐 behradfarahani.com
+website: Check out my website 🌐 behradfarahani.com (click my name)
 ```
 
 <!--![PageSpeed](metrics.plugin.pagespeed.svg)-->
 
 <p align="center">
-  <a href="https://github.com/codenecting" style="text-decoration: none; display: inline-flex; align-items: center; background-color: #000000; color: #FFFFFF; padding: 10px 20px; border-radius: 50px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif; font-weight: 500;">
-    Check out Codenecting
-    <img src="assets/icons/move-up-right.svg" width="18" height="18" style="margin-left: 8px; filter: invert(1);"/>
+  <a href="https://github.com/codenecting">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/images/light/cta_codenecting.svg">
+      <img alt="Check out Codenecting" src="assets/images/dark/cta_codenecting.svg">
+    </picture>
   </a>
-  &#8287;&#8287;&#8287;
-  <a href="https://github.com/behradlabs" style="text-decoration: none; display: inline-flex; align-items: center; background-color: #FFFFFF; color: #000000; padding: 10px 20px; border-radius: 50px; font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif; font-weight: 500;">
-    Check out Behrad Labs
-    <img src="assets/icons/move-up-right.svg" width="18" height="18" style="margin-left: 8px;"/>
+  &nbsp;&nbsp;
+  <a href="https://github.com/behradlabs">
+    <picture>
+      <source media="(prefers-color-scheme: dark)" srcset="assets/images/dark/cta_behradlabs.svg">
+      <img alt="Check out Behrad Labs" src="assets/images/light/cta_behradlabs.svg">
+    </picture>
   </a>
 </p>
 
@@ -69,15 +113,14 @@ website: Check out my website 🌐 behradfarahani.com
 </details>
 
 <details open>
-<summary style="font-size: 1.2em;">Statistics</summary>
+<summary style="font-size: 1.2em;">GitHub Statistics</summary>
 
 <br>
 
 <div align="center">
 
-<!--https://github.com/DenverCoder1/github-readme-streak-stats-->
 <!-- https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub Streak](https://streak-stats.demolab.com?user=ACHMEDIUS&theme=dark)](https://git.io/streak-stats) [![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achmedius&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
+[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achmedius&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
 
 <br>
 
@@ -96,7 +139,8 @@ website: Check out my website 🌐 behradfarahani.com
 <p align="center">
   <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
   <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/.NET_Framework-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET Framework"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
 </p>
@@ -109,11 +153,11 @@ website: Check out my website 🌐 behradfarahani.com
 </details>
 
 <details open>
-<summary style="font-size: 1.2em;">Research</summary>
+<summary style="font-size: 1.2em;">What I'm Researching</summary>
 
 <br>
 
-#### <img src="assets/icons/brain.svg" width="16" height="16" style="vertical-align: text-bottom; filter: invert(1);"/> Second Brain
+#### Second Brain <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/brain.svg"><img src="assets/icons/dark/brain.svg" width="16" height="16" align="center" alt="Brain"/></picture>
 
 ```yaml
 description: Dynamic shared memory framework for agentic AI systems
@@ -122,7 +166,7 @@ status: Development
 link: T.B.A.
 ```
 
-#### <img src="assets/icons/drama.svg" width="16" height="16" style="vertical-align: text-bottom; filter: invert(1);"/> Roleplay to Reliability
+#### Roleplay to Reliability <picture><source media="(prefers-color-scheme: dark)" srcset="assets/icons/light/drama.svg"><img src="assets/icons/dark/drama.svg" width="16" height="16" align="center" alt="Drama"/></picture>
 
 ```yaml
 description: Behavioural Convergence in LLMs identity simulation

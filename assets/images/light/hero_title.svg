@@ -1,0 +1,12 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 300 30" width="300" height="30">
+  <style>
+    @import url('https://fonts.googleapis.com/css2?family=Fira+Code:wght@700&amp;display=swap');
+    text {
+      font-family: 'Fira Code', monospace;
+      font-weight: 700;
+      font-size: 18px;
+      fill: white;
+    }
+  </style>
+  <text x="150" y="22" text-anchor="middle">Behrad Farahani</text>
+</svg>
