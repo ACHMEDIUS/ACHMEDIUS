@@ -67,16 +67,10 @@
   </picture>
 </p>
 
-<details open>
-<summary style="font-size: 1.2em;">About Me</summary>
-
-<br>
-
 ```yaml
 description: Software Engineer with 10+ years of experience, pivoting to Local AI and Machine Learning
 interests: [Web Development, Local AI, Machine Learning, Agentic Systems]
 currently_exploring: Second Brain architectures and LLM identity simulation
-codenecting: Founding a new startup focused on AI-powered development tools
 website: Check out my website 🌐 behradfarahani.com (click my name)
 ```
 
@@ -110,48 +104,6 @@ website: Check out my website 🌐 behradfarahani.com (click my name)
 <!-- Also add METRICS_TOKEN with a GitHub PAT -->
 <!--![PageSpeed](metrics.plugin.pagespeed.svg)-->
 
-</details>
-
-<details open>
-<summary style="font-size: 1.2em;">GitHub Statistics</summary>
-
-<br>
-
-<div align="center">
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-[![GitHub Stats](https://github-readme-stats.vercel.app/api?username=achmedius&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)
-
-<br>
-
-<!-- https://github.com/anuraghazra/github-readme-stats -->
-<!--[![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=achmedius&layout=compact&theme=dark&hide_border=false)](https://github.com/anuraghazra/github-readme-stats)-->
-
-<p align="center">
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
-  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
-  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
-</p>
-
-<p align="center">
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
-  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
-  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
-  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
-  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
-</p>
-
-</div>
-
-<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
-<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=achmedius&bg_color=000000&color=d53f64&line=d53f64&point=d53f64&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
-
-</details>
-
 <details open>
 <summary style="font-size: 1.2em;">What I'm Researching</summary>
 
@@ -176,3 +128,40 @@ link: T.B.A.
 ```
 
 </details>
+
+<div align="center">
+
+<!-- https://github.com/anuraghazra/github-readme-stats -->
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api?username=achmedius&theme=dark&hide_border=true">
+  <img src="https://github-readme-stats.vercel.app/api?username=achmedius&theme=default&hide_border=true" alt="GitHub Stats">
+</picture>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://github-readme-stats.vercel.app/api/top-langs/?username=achmedius&layout=compact&theme=dark&hide_border=true&langs_count=8">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=achmedius&layout=compact&theme=default&hide_border=true&langs_count=8" alt="Top Languages">
+</picture>
+
+<br>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript"/>
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript"/>
+  <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" alt="React"/>
+  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js"/>
+  <img src="https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=for-the-badge&logo=tailwindcss&logoColor=white" alt="Tailwind CSS"/>
+</p>
+
+<p align="center">
+  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB"/>
+  <img src="https://img.shields.io/badge/GraphQL-E10098?style=for-the-badge&logo=graphql&logoColor=white" alt="GraphQL"/>
+  <img src="https://img.shields.io/badge/.NET-512BD4?style=for-the-badge&logo=dotnet&logoColor=white" alt=".NET"/>
+  <img src="https://img.shields.io/badge/TensorFlow-FF6F00?style=for-the-badge&logo=tensorflow&logoColor=white" alt="TensorFlow"/>
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black" alt="Firebase"/>
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</p>
+
+</div>
+
+<!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
+<!--[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=achmedius&bg_color=000000&color=d53f64&line=d53f64&point=d53f64&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)-->
