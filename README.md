@@ -38,7 +38,7 @@
 description: Software Engineer with 10+ years of experience, pivoting to Local AI and Machine Learning
 interests: [Web Development, Local AI, Machine Learning, Agentic Systems]
 currently_exploring: Second Brain architectures and LLM identity simulation
-website: Check out my website 🌐 behradfarahani.com (click my name)
+website: Check out my website 🌐 behradfarahani.com (click my name ↑)
 ```
 
 <!--![PageSpeed](metrics.plugin.pagespeed.svg)-->
